@@ -1,0 +1,2 @@
+# RShinyApp
+Generic app framework
